@@ -1,1 +1,3 @@
-
+index=wineventlog
+| search EventCode=1 OR process_name=*cmd* OR process_name=*powershell*
+| table _time, host, process_name, parent_process_name, user
