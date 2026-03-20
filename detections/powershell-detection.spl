@@ -1,1 +1,2 @@
-
+index=wineventlog powershell
+| table _time, host, source, EventCode, Message
