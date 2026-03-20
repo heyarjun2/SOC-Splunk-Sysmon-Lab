@@ -1,5 +1,5 @@
 # SOC Splunk Sysmon Lab
-> Beginner-friendly SOC lab project focused on Windows logging, Splunk detection, and hands-on threat investigation.
+Beginner-friendly SOC lab project focused on Windows logging, Splunk detection, and hands-on threat investigation.
 
 ## Overview
 This project is a hands-on SOC lab built to practice log collection, event monitoring, and basic threat detection using Splunk and Sysmon on a Windows machine.
