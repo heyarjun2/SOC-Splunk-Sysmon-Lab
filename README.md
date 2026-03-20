@@ -1,4 +1,4 @@
-# SOC Splunk Sysmon Lab
+# SOC Splunk sysmon Lab
 Beginner-friendly SOC lab project focused on Windows logging, Splunk detection, and hands-on threat investigation.
 
 ## Overview
